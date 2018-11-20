@@ -1,6 +1,3 @@
 it:
   label_show_quoted_text: "(Mostra testo citato)"
   label_hide_quoted_text: "(Nascondi testo citato)"
-en:
-  label_show_quoted_text: "(Show conversation)"
-  label_hide_quoted_text: "(Hide conversation)"
